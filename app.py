@@ -17,7 +17,7 @@ expected_features = ['SKU_count', 'Avg_Sales', 'Willingness_Organic', 'Willingne
                      'Willingness_Ghee', 'Willingness_Oil', 'Willingness_Beverage',
                      'Willingness_Bakery', 'Importance_of_AMUL', 'Reputation_of_Store',
                      'Self_Service_No', 'Self_Service_Yes', 'Customer_Can_Browse_Full View and Choice',
-                     'Customer_Can_Browse_No Entry',  'Customer_Can_Browse_Partial View''Shop_Type_Convenience store',
+                     'Customer_Can_Browse_No Entry',  'Customer_Can_Browse_Partial View','Shop_Type_Convenience store',
                      'Shop_Type_General trade', 'Shop_Type_Modern trade', 'Shelf_Space_20-30ft',
                      'Shelf_Space_30-40ft', 'Shelf_Space_40-50ft', 'Shelf_Space_<20ft',
                      'Shelf_Space_>50ft', 'Cold_Storage_No', 'Cold_Storage_Yes']
